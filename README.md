@@ -1,5 +1,7 @@
 # Welcome to this simple CDK TypeScript project!
 
+![image](https://github.com/borelkoumo/apigateway-and-lambda/blob/main/diagram.png)
+
 ## Description
 A Lambda function with an API Gateway endpoint in front of it. When users hit URL endpoint, they receive a greeting from our function.
 
